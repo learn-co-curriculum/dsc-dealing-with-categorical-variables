@@ -259,7 +259,7 @@ origin = ['USA', 'EU', 'EU', 'ASIA','USA', 'EU', 'EU', 'ASIA', 'ASIA', 'USA']
 origin_series = pd.Series(origin)
 ```
 
-Now you'll want to make sure Python recognizes there strings as categories. This can be done as follows:
+Now you'll want to make sure Python recognizes these strings as categories. This can be done as follows:
 
 
 ```python
